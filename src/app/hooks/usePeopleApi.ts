@@ -32,7 +32,6 @@ export const usePeopleApi = () => {
         }  finally {
             setLoading(false)
         }
-        }
     }
 
     useEffect(() => {
